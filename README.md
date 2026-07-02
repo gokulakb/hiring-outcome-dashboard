@@ -201,7 +201,7 @@ Health
 Method	Endpoint	Description
 GET	/api/health	Health check endpoint
 📁 Project Structure
-text
+****
 hiring-outcome-dashboard/
 ├── controllers/
 │   ├── analyticsController.js    # Analytics endpoints logic
@@ -235,12 +235,7 @@ hiring-outcome-dashboard/
 ├── .env                          # Environment variables
 ├── .gitignore                    # Git ignore file
 └── README.md                     # Project documentation
-🔧 Environment Variables
-Create a .env file in the root directory:
 
-env
-PORT=10000
-NODE_ENV=production
 📝 Commands
 Command	Description
 npm install	Install all dependencies
